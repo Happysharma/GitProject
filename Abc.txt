@@ -1,2 +1,4 @@
 Hi
-added this line at local 
+added this line at local
+
+Line added at remote
